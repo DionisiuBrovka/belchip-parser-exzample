@@ -7,16 +7,11 @@
         "image": "https://static.chipdip.ru/lib/366/DOC004366044.jpg"
     },
     {
-        "id": 177,
-        "typeId": 16,
-        "title": "Диодные мосты",
-        "url": "https://www.chipdip.by/catalog/diode-bridges",
-        "image": "https://static.chipdip.ru/lib/365/DOC004365354.jpg"
-    },
-    {
         "id": 5,
         "typeId": 1,
         "title": "Аналоговые коммутаторы, Мультиплексоры, Демультиплексоры",
         "url": "https://www.chipdip.by/catalog/ic-analog-switch"
     }
+    
+
 ]

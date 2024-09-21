@@ -1,4 +1,4 @@
-import { DeviceType } from './models.js';
+import { DeviceType } from '../models/models.js';
 import { getDomElementFromURL } from './utils.js';
 
 const parsePageUrl = "https://www.chipdip.by/catalog/electronic-components";

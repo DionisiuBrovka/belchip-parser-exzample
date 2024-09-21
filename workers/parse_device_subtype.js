@@ -1,6 +1,6 @@
-import { DeviceSubType } from './models.js';
-import { getDomElementFromURL, sleep } from './utils.js';
-let deviceTypeArray = require('./data/device_types.json');
+import { DeviceSubType } from '../models/models.js';
+import { getDomElementFromURL, sleep } from '../utils/utils.js';
+let deviceTypeArray = require('../data/device_types.json');
 
 const basePageUrl = "https://www.chipdip.by";
 
